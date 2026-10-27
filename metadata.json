@@ -1,0 +1,6 @@
+{
+  "name": "AICTE Institutional Complaint Monitoring System",
+  "description": "A centralized, government-grade grievance redressal and institutional complaint monitoring portal for AICTE approved institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
